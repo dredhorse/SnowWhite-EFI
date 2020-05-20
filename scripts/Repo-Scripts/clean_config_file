@@ -3,7 +3,7 @@
 require 'rubygems'
 require 'bundler/setup'
 
-config_path = File.join(File.expand_path(File.dirname(__FILE__)), '..', 'MY EFI', 'CLOVER', 'config.plist')
+config_path = File.join(File.expand_path(File.dirname(__FILE__)), '..', '..', 'MY EFI', 'OC', 'config.plist')
 
 require_relative 'lib/clean_config'
 
