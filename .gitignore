@@ -3,6 +3,10 @@
 # Edit at https://www.gitignore.io/?templates=osx,ruby
 # gutted by DonRedhorse
 
+
+# stores private information from config.plist
+private_information.plist
+
 ### OSX ###
 # General
 .DS_Store
