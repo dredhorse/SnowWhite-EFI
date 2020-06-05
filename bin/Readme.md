@@ -4,13 +4,15 @@ These are just scripts I use to maintain this repo. They have nothing to do with
 
 You can just ignore everything in here or use them for your own efis.
 
-## Repo-Scripts
+## dump_efi
 
 Those files have been taken from https://github.com/cmer/gigabyte-z390-aorus-master-hackintosh
 
 Modified to support:
 
 - different location in folder structure
+- different target location
+- removal of unnecessary clean function
 
 ## OC-PRIVATE
 
