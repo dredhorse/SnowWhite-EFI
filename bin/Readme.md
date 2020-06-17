@@ -33,3 +33,9 @@ As mountEFI is implemented as a GIT submodule you might want to read up on that:
 
 https://git-scm.com/book/en/v2/Git-Tools-Submodules
 
+## OC-Remote
+
+A derivation from OC-PRIVATE to change the private information in an external / remote config.plist file.
+
+No error checking atm.
+
